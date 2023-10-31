@@ -1,11 +1,16 @@
 .header {
     height: 60px;
-    background-color: #2C3E51 ;
+    
+}
+
+.dark {
+    background-color: #2C3E51;
+    color: white;
+
 }
 
 .green-section {
     background-color: #1ABC9C;
-    height: 300px;
 }
 
 .bordeaux {
@@ -38,6 +43,17 @@
     height: 250px;
 }
 
-.white {
+.h-standard {
     height: 300px;
 }
+
+footer {
+    background-color: #3A546D;
+    color: white;
+    
+}
+
+.copyright {
+    height: 100px;
+}
+
