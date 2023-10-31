@@ -1,0 +1,39 @@
+#footer {
+    height: 60px;
+    background-color: #2C3E51 ;
+}
+
+.jumbo {
+    background-color: #1ABC9C;
+    height: 300px;
+}
+
+.bordeaux {
+    background-color:#BA4B63 ;
+    height: 300px;
+}
+
+.azure {
+    background-color:#1FA4B6 ;
+    height: 300px;
+}
+
+.black {
+    background-color:black ;
+    height: 300px;
+}
+
+.blue{
+    background-color:#1C83C1 ;
+    height: 300px;
+}
+
+.electric{
+    background-color:#0E38B5 ;
+    height: 300px;
+}
+
+.beige {
+    background-color: #CCB2A3;
+    height: 300px
+}
