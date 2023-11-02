@@ -1,7 +1,24 @@
 
-header {
+.dark div {
     height: 70px;
 }
+
+.border-bars {
+    height: 30px;
+    width: 30px;
+    border: 1px solid white;
+    border-radius: 3px;
+    padding: 6.5px;
+}
+
+.compare-md {
+    display: none;
+}
+
+.compare-md p {
+    padding: 10px;
+}
+
 .green-section {
     background-color: #1ABC9C;
     color: white;
@@ -38,7 +55,7 @@ footer {
 }
 
 .copyright {
-    height: 100px;
+    height: 80px;
 }
 
 .contact-me {
@@ -73,6 +90,13 @@ footer {
 @media screen and (min-width: 768px) {
 .container {
     max-width: 90%;
+}
+.compare-md {
+    display: flex;
+}
+
+.scompare i {
+    display: none;
 }
 
 }
