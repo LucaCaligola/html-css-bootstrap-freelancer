@@ -34,3 +34,39 @@ footer {
 .copyright {
     height: 100px;
 }
+
+.contact-me {
+    border: 1px solid lightgray;  
+}
+
+
+.btn-success {
+    background-color:#1ABC9D;
+    border: 1px solid white;
+}
+
+.form-floating {
+    border: none;
+}
+
+
+/* MEDIUM SIZE */
+@media screen and (min-width: 768px) {
+.container {
+    max-width: 90%;
+}
+
+}
+
+
+
+
+
+
+
+@media screen and (min-width: 992px) {
+    .container {
+        max-width: 70%;
+    }
+    
+    }
