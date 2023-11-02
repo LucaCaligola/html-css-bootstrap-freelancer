@@ -1,5 +1,7 @@
 
-
+header {
+    height: 70px;
+}
 .green-section {
     background-color: #1ABC9C;
     color: white;
@@ -7,7 +9,6 @@
 
 .green-section div img {
     max-width: 100%;
-
 }
 
 
