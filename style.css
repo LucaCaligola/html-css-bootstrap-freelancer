@@ -1,51 +1,23 @@
-.header {
-    height: 60px;
-    
-}
 
-.dark {
-    background-color: #2C3E51;
-    color: white;
-
-}
 
 .green-section {
     background-color: #1ABC9C;
+    color: white;
 }
 
-.bordeaux {
-    background-color:#BA4B63 ;
-    height: 250px;
+.green-section div img {
+    max-width: 100%;
+
 }
 
-.azure {
-    background-color:#1FA4B6 ;
-    height: 250px;
+
+.card img {
+    width: 100%;
+    border-radius: 1rem;
 }
 
-.black {
-    background-color:black ;
-    height: 250px;
-}
 
-.blue{
-    background-color:#1C83C1 ;
-    height: 250px;
-}
 
-.electric{
-    background-color:#0E38B5 ;
-    height: 250px;
-}
-
-.beige {
-    background-color: #CCB2A3;
-    height: 250px;
-}
-
-.h-standard {
-    height: 300px;
-}
 
 footer {
     background-color: #3A546D;
