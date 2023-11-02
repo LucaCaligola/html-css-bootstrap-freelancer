@@ -31,6 +31,11 @@ footer {
     
 }
 
+.dark {
+    background-color:#2C3E51;
+    color: white;
+}
+
 .copyright {
     height: 100px;
 }
@@ -47,6 +52,19 @@ footer {
 
 .form-floating {
     border: none;
+}
+
+.about-freelance p span {
+    color: #1ABC9C;
+}
+
+.circle {
+    width: 40px;
+    height: 40px;
+    border: 1px solid white;
+    border-radius: 50%;
+    padding-top:10px ;
+    margin: 5px;
 }
 
 
